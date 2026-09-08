@@ -117,4 +117,6 @@ _PS - the source code in this repo is for the landing page the acutal repo with 
 
 ---
 
-<p align="center"><i>Built by <a href="linkedin.com/in/tristen-hunter-dev/">Tristen Hunter</a></i></p>
+<p align="center">
+  <i>Built by <a href="https://www.linkedin.com/in/tristen-hunter-dev/">Tristen Hunter</a></i>
+</p>
